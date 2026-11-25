@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Node.js basics",
+    "done": true
+  },
+  {
+    "id": 2,
+    "title": "Practice fs and path",
+    "done": false
+  }
+]
